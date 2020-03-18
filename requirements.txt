@@ -6,4 +6,3 @@ matplotlib
 django_plotly_dash
 psutil
 requests
-libcanberra-gtk-module
